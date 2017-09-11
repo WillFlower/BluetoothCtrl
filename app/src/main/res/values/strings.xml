@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BluetoothCtrl</string>
+
+    <!-- menu -->
+    <string name="main_menu1">menu1</string>
+    <string name="main_menu2">menu2</string>
+    <string name="main_menu3">menu3</string>
+
+    <!-- bluetoothDevice -->
+    <string name="device_unknown">未名设备</string>
+
+    <!-- bluetoothScan -->
+    <string name="scan_feature_error">您的设备不支持蓝牙模块！</string>
+    <string name="scan_adapter_error">您的设备不支持蓝牙功能！</string>
+    <string name="auto_enable_bluetooth_error">自动打开蓝牙失败！</string>
+    <string name="enable_bluetooth_error">打开蓝牙失败！</string>
+    <string name="unKnow_error">未知错误！</string>
+
+    <!-- bluetoothConnect -->
+    <string name="send_empty_error">请输入要发送的字符！</string>
+    <string name="disconnected_error">蓝牙服务已断开连接！</string>
+    <string name="connected_success">成功连接到</string>
+    <string name="auto_connected_success">自动连接成功！</string>
+    <string name="auto_connected_error">自动连接失败！</string>
+
+</resources>
